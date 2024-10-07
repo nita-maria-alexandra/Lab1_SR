@@ -1,7 +1,7 @@
 # Lab1_SR
 Am ales un dataset care conține detalii despre filme, top 1000 de filme, despre care se știu următoarele detalii:
-    -__ link către site-ul de unde se poate cumpăra poster cu filmul respectiv
-    -__ titlul filmului
+    - <br/> link către site-ul de unde se poate cumpăra poster cu filmul respectiv
+    - <br/> titlul filmului
     -__ anul în care a fost lansat
     -__ certificatul
     -__ rating-ul IMDB
